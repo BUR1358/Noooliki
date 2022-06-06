@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "60291466842",
-    "project_id": "noliki",
-    "storage_bucket": "noliki.appspot.com"
+    "project_number": "************",
+    "firebase_url": "https://************.firebaseio.com",
+    "project_id": "firechat",
+    "storage_bucket": "firechat.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:60291466842:android:cff28beba5617eff76fa63",
+        "mobilesdk_app_id": "1:************:android:************",
         "android_client_info": {
-          "package_name": "com.bur.noliki"
+          "package_name": "com.example.firechat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "60291466842-35ubo0a50f59orhcif7bcf5jhq7u4ubl.apps.googleusercontent.com",
+          "client_id": "************-************.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAltp16NfPoBl6hOc3_FGlFIWAb9bkkC9Q"
+          "current_key": "************"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "60291466842-35ubo0a50f59orhcif7bcf5jhq7u4ubl.apps.googleusercontent.com",
+              "client_id": "************-************.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
