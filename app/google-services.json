@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60291466842",
+    "project_id": "noliki",
+    "storage_bucket": "noliki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60291466842:android:cff28beba5617eff76fa63",
+        "android_client_info": {
+          "package_name": "com.bur.noliki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60291466842-35ubo0a50f59orhcif7bcf5jhq7u4ubl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltp16NfPoBl6hOc3_FGlFIWAb9bkkC9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60291466842-35ubo0a50f59orhcif7bcf5jhq7u4ubl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

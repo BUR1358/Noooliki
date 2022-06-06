@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Noooliki</string>
+    <string name="start">Начать</string>
+    <string name="enter_your_name">Введите Свое Имя</string>
+    <string name="app_name_screen">No̶o̶o̶liki</string>
+    <string name="please_enter_name">Пожалуйста введите имя</string>
+    <string name="player_one">Первый игрок</string>
+    <string name="player_two">Второй игрок</string>
+</resources>
